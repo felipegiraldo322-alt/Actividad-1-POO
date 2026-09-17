@@ -19,5 +19,4 @@ edalber = Calcular_Edades.calcular_edalber(edjuan)
 edana = Calcular_Edades.calcular_edana(edjuan)
 edmama = Calcular_Edades.calcular_edmama(edjuan, edalber, edana)
 
-# Resultado formateado
 print(f"Las edades son: Alberto = {edalber}, Juan = {edjuan}, Ana = {edana}, Mamá = {edmama}")

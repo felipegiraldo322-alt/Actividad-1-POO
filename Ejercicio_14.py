@@ -13,7 +13,6 @@ class Calculos:
 
 numero = 4.0
 
-# Llamada a los métodos estáticos de la clase Calculos
 cuadrado = Calculos.calcular_cuadrado(numero)
 cubo = Calculos.calcular_cubo(numero)
 
